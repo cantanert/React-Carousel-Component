@@ -1,11 +1,8 @@
 
 import React from 'react';
-import CarouselData from '../../data/CarouselContents'
-//This Carousel Data variable mocks data which came from server. It used as a JSON response.
-import CarouselImage from '../../images/wallpapers/x.jpg'
-//This Carousel Image used as a default background image. If you want to use carousel efficiently, 
-// all photos in carousel must be same dimensions. So there is not important background image in here but
-// if we can get image source for every response data items, we can use dynamic images for carousel.
+import CarouselData from './CarouselContents'
+import CarouselImage from './x.jpg'
+
 
 class Carousel extends React.Component{
 
