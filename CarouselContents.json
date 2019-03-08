@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "title": "Nerede Kalınır?",
+      "description":"Lorem Ipsum Dolor Aset"
+    },{
+      "title": "Nerede Yemek Yenir?",
+      "description":"Lorem Ipsum Dolor Aset"
+    },{
+      "title": "Nereden Alışveriş Yapılır?",
+      "description":"Lorem Ipsum Dolor Aset"
+    },{
+      "title": "Nasıl Ulaşım Yapılır?",
+      "description":"Lorem Ipsum Dolor Aset"
+    },{
+      "title": "Gezilecek Yerler",
+      "description":"Lorem Ipsum Dolor Aset"
+    }
+  ]
+}
