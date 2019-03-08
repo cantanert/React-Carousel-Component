@@ -1,0 +1,21 @@
+
+.indicatorItem{
+    border: 1px solid black !important;
+    background-color: black !important;
+    opacity: 1 !important;
+}
+
+.carousel-indicators > .active{
+    background-color: white !important;
+}
+
+.carousel-caption > h5{
+    font-size: 60px !important;
+
+}
+
+.carousel-caption > p{
+    font-size: 20px !important;
+    font-weight: bold;
+
+}
